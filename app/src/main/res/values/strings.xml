@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MusicaUdacity</string>
+    <string name="Next"><![CDATA[>|]]></string>
+    <string name="foward"><![CDATA[>>]]></string>
+    <string name="pause">||</string>
+    <string name="rewind"><![CDATA[<<]]></string>
+    <string name="previously"><![CDATA[|<]]></string>
+    <string name="music_player_2017_udacity">MUSIC PLAYER 2017 UDACITY!</string>
+    <string name="atualizar_sd">Atualizar SD</string>
+    <string name="player">PLAYER</string>
+    <string name="lista">LISTA</string>
+    <string name="musci_player_2017_musicacity">MUSIC PLAYER 2017 MUSICACITY</string>
+    <string name="foward1"><![CDATA[>>]]></string>
+    <string name="pause1">||</string>
+    <string name="rewind1"><![CDATA[<<]]></string>
+    <string name="previously1"><![CDATA[|<]]></string>
+</resources>
